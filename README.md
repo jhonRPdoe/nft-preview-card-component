@@ -28,8 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site: (https://jhonrpdoe.github.io/nft-preview-card-component/)
+- Live Site: [Site](https://jhonrpdoe.github.io/nft-preview-card-component/)
 
 ## My process
 
